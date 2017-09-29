@@ -1,4 +1,4 @@
-var padfactor=0.1;
+var padfactor=0.11;
 var barpad=40;
 var tophalf=0.45;
 var division=[0.3, 0.4, 0.3, 0.4, 0.6];
